@@ -4,8 +4,8 @@ layout: hello-default
 # using Markdown language, you can customize the following variables!
 
 # these variables are required -------------------------------
-banner_title: hello for github pages
-banner_subtitle: a minimalist template for personal websites
+banner_title: Obeya Consulting
+banner_subtitle: Empodarando al espiritu emprendedor
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
@@ -15,9 +15,9 @@ page_url: /hello # only include this variable if you aren't building the page to
 favicon: /assets/ico/favicon.ico
 
 # social media
-twitter_username: notsaragong # # your twitter handle
-github_username:  saragong # your github username
-linkedin: saragong # the part after ("https://www.linkedin.com/in/...")
+twitter_username: obeya# # your twitter handle
+github_username:  moqca # your github username
+linkedin: obeya # the part after ("https://www.linkedin.com/in/...")
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
 
@@ -51,7 +51,3 @@ development environment, learning to use Jekyll, **or even typing a single line 
 who want to start building their personal website on [GitHub Pages](https://pages.github.com/), but maybe aren't so familiar with web development.
   
 
-The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/).  
-
-
-**hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.
